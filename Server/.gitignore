@@ -1,0 +1,7 @@
+.idea
+venv
+**/__pycache__
+public/images/
+.vscode
+everytree_core/keys/
+**/migrations
